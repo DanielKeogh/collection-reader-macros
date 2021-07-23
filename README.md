@@ -1,6 +1,4 @@
 # collection-reader-macros
-### _Daniel Keogh <keogh.daniel@gmail.com>_
-
 ## Reader Macros
 
 Included are clojure style reader macros for vectors and hash-tables.
